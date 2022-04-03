@@ -1,0 +1,14 @@
+.card {
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+
+}
+
+button{
+    padding: 10px 20px;
+    background-color: orange;
+    margin-top: 5px;
+    color: white;
+    font-weight: 700px;
+}
